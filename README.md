@@ -16,18 +16,18 @@ pip install selenium
 pip install webdriver-manager
 
 ## Project Structure
-	selenium_tests/
-	├── assets/
+	/
+	├── /
  		style.css
  	├── report.html
-	├── test_1_login_logout.py
-	├── test_2_form_submission.py
-	├── test_3_navigation.py
-	├── test_4_data_validation.py
-	├── test_5_error_handling.py
-	├── test_6_search_functionality.py
-	├── test_7_responsive_design.py
-	└── requirements.txt
+	├── .py
+	├── .py
+	├── .py
+	├── .py
+	├── .py
+	├── .py
+	├── .py
+	└── 
 
 ##	Setting Up Test Environment
 	1. Open PyCharm and go to File > Settings > Project > Python Interpreter
